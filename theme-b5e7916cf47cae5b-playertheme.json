@@ -1,0 +1,16 @@
+ {
+       "backgroundColor": "#FFFFFF",
+       "backgroundGradientEnd": "#FFFFFF",
+       "controlsColor": "#000000",
+       "controlsSecondaryColor": "#000000",
+       "progressBarColor": "#000000",
+       "progressBarBackgroundColor": "#E2E2E2",
+       "artworkBorderColor": "#FFFFFF",
+       "artworkShadowColor": "#FFFFFF",
+       "titleColor": "#000000",
+       "subtitleColor": "#000000",
+       "statusBarColor": "#000000",
+       "navigationBarColor": "#000000",
+       "isLightStatusBar": true,
+       "isLightNavigationBar": false
+     }
