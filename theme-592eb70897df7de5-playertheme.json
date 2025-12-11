@@ -1,16 +1,16 @@
  {
-       "backgroundColor": "#060911",
-       "backgroundGradientEnd": "#060911",
+       "backgroundColor": "#05090C",
+       "backgroundGradientEnd": "#05090C",
        "controlsColor": "#ffffff",
        "controlsSecondaryColor": "#ffffff",
        "progressBarColor": "#ffffff",
-       "progressBarBackgroundColor": "#ffffff",
-       "artworkBorderColor": "#222631",
-       "artworkShadowColor": "#222631",
+       "progressBarBackgroundColor": "#0A0E12",
+       "artworkBorderColor": "#15171C",
+       "artworkShadowColor": "#15171C",
        "titleColor": "#ffffff",
        "subtitleColor": "#ffffff",
        "statusBarColor": "#000000",
-       "navigationBarColor": "#060911",
+       "navigationBarColor": "#05090C",
        "isLightStatusBar": true,
        "isLightNavigationBar": false
      }
